@@ -1,0 +1,6 @@
+glfw
+imgui
+numpy
+imageio
+plyfile
+pypose
